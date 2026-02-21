@@ -27,19 +27,6 @@ Scikit-learn
 Jupyter Notebook
 
 
-
----
-
-📂 Repository Structure
-
-📦 Data-Science
- ┣ 📂 Data
- ┣ 📂 Notebooks
- ┣ 📂 Projects
- ┣ 📂 Models
- ┗ README.md
-
-
 ---
 
 🚀 Topics Covered
