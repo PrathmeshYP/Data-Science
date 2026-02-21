@@ -81,17 +81,4 @@ Prathmesh Yadav Patil
 Aspiring Data Scientist
 
 
----
 
-If you want, I can also give:
-
-⭐ A more professional version (for recruiters)
-
-🔥 A GitHub-optimized version with badges
-
-📌 A beginner-friendly simple version
-
-💼 A resume-ready version
-
-
-Tell me which one you prefer 🙂
