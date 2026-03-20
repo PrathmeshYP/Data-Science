@@ -24,8 +24,6 @@ Seaborn
 
 Scikit-learn
 
-Jupyter Notebook
-
 
 ---
 
