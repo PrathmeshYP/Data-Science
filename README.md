@@ -76,7 +76,6 @@ Create end-to-end pipelines
 👨‍💻 Author
 
 Prathmesh Yadav Patil
-Aspiring Data Scientist
 
 
 
